@@ -1,2 +1,3 @@
-# Tarea1
-Repositorio de Juan Bauza
+# Proyecto SO
+
+Proyecto 

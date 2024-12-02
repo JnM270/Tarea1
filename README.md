@@ -1,3 +1,3 @@
 # Proyecto SO
 
-Proyecto 
+Proyecto hecho por Juan Bauza
